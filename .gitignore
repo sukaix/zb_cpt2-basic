@@ -1,0 +1,7 @@
+# Logs
+logs
+*.log
+npm-debus.log*
+
+# Dependency directories
+node_modules/
